@@ -15,14 +15,3 @@
 - 图书查询
 
 目前，项目支持中国科学院大学 (UCAS) 的教务系统。
-
-## 目录结构
-
-iCampus/
-│
-├── login/ # 登录相关脚本
-│ └── jwxt-login.mjs # 教务系统登录脚本
-├── spider/ # 爬虫脚本
-│ └── grade-spider.mjs # 成绩爬虫脚本
-├── utils/ # 工具函数
-│ └── helpers.mjs # 常用工具函数
